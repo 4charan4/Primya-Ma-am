@@ -13,6 +13,7 @@ else:
             t=0
         else:
             t=1
+            break
 
 if t==0:
     print("Yes,List is in ascending order")
